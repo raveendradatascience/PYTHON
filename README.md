@@ -13,7 +13,7 @@ This folder contains the input text files to be processed in course project work
 
 **Dev_folder**:
 
-This folder contains the `code work' . This python code has ***Assignment Questions*** on top of each file.Also supported with possible documentation comments.
+This folder contains the `code work` . This python code has ***Assignment Questions*** on top of each file.Also supported with possible documentation comments.
 
 **Misc**:
 
