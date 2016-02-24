@@ -3,9 +3,13 @@
 This is repository for [***Python certificate***](https://www.coursera.org/account/accomplishments/records/z3mQrFPhjdMMAc6d) by University of Michigan through  Course. I includes course project work inputs and code used to solve the assignments given
 
 Repositatory organised as:
+
     - Input_files
+
     - Dev_folder
+
     - Misc
+
 
 **Input_files**:
 
