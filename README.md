@@ -1,6 +1,6 @@
 # PYTHON Certificate Course work
 
-This is repository for [***Python certificate***](https://www.coursera.org/account/accomplishments/records/z3mQrFPhjdMMAc6d) by University of Michigan through  **Coursera**. I includes course project work inputs and code used to solve the assignments given
+This is repository for [***Python certificate***](https://www.coursera.org/account/accomplishments/records/z3mQrFPhjdMMAc6d) by University of Michigan through  **Coursera**. I includes course project work inputs and code used to solve the assignments given in the course.
 
 Repositatory organised as:
 
